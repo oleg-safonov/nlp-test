@@ -1,0 +1,16 @@
+github.com/cespare/xxhash/v2 v2.3.0 h1:UL815xU9SqsFlibzuggzjXhog7bL6oX9BbNZnL2UFvs=
+github.com/cespare/xxhash/v2 v2.3.0/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/oleg-safonov/nlp v0.0.0-20260222120617-5519af2fb170 h1:+o+weHi0FO6LpZ+j5UbKgIZzEjjkkdbp12oiKXqovBM=
+github.com/oleg-safonov/nlp v0.0.0-20260222120617-5519af2fb170/go.mod h1:qbLPStGfuZHFJD9pPBmiie5qXdR4V/N7+VjdnU3cA78=
+github.com/oleg-safonov/nlp-ru-data v0.0.0-20260222120137-2914e8b5a3f5 h1:dmk5eQ0Bs+44ssQSvgrqQIU/8wXBQJ6bRhyWEJxVFI4=
+github.com/oleg-safonov/nlp-ru-data v0.0.0-20260222120137-2914e8b5a3f5/go.mod h1:ET7R6133zgb3D3ENIPVAHN3O6JKjLv8OjnXVZQLOl9o=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
+github.com/stretchr/testify v1.11.1/go.mod h1:wZwfW3scLgRK+23gO65QZefKpKQRnfz6sD981Nm4B6U=
+golang.org/x/text v0.33.0 h1:B3njUFyqtHDUI5jMn1YIr5B0IE2U0qck04r6d4KPAxE=
+golang.org/x/text v0.33.0/go.mod h1:LuMebE6+rBincTi9+xWTY8TztLzKHc/9C1uBCG27+q8=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
